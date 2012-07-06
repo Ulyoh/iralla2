@@ -23,16 +23,23 @@ First Step
 	
 3) creer la road map :
 
+decrire l interface web et ses fonctions
+
 lister les fonctions de pgRouting et postGis necessaire au projet
 
 learn zend framework
 
-creer les class PHP et les commandes PostGreSQL
+creer les class PHP et les commandes PostGreSQL/postGis/pgRouting
+
+learn PHPUnit
+
+creer les test PHPUnit
 
 learn jquery
 
 choisir les addon de representation graphique cote client
 
-creer les "class" jquery 
+creer les "class" jquery
 
-ecrire les methodes des class
+A determiner
+
